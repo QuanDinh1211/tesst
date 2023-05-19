@@ -1,6 +1,5 @@
-console.log('update quandv');
+console.log('test');
 
-console.log('test thay đổi main, testing upadte quandv 2');
+console.log('quandv');
 
-
-console.log('main quandv')
+console.log('main');
